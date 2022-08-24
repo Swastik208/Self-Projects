@@ -1,2 +1,2 @@
-# mba
-projects
+# Self Projects
+
